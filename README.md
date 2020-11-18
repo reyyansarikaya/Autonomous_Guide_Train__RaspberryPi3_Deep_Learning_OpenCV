@@ -1,7 +1,7 @@
 # Detection Of Defects That May Occur In Train Rails By Using Autonomous Camera Vehicles With Deep Learning Technique
 #rail #deeplearning #opencv #autonomous_car #tübitak
 # TÜBİTAK 2242 - University Students Research Project Competitions - RayAI Team Project
-# RayAI Team: F. Reyyan SARIKAYA - Hatice BOLAT - Sümeyra EROL
+- RayAI Team: F. Reyyan SARIKAYA - Hatice BOLAT - Sümeyra EROL
 
 The means of transportation with the lowest accident rate in recent years is the airline and then the railway. In addition
 rail travel has become a preferred means of transportation by the public. However, in Turkey
